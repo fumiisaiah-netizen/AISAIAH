@@ -65,15 +65,6 @@ export const Contact: React.FC = () => {
             </div>
           </div>
           <div className="contact-info-item">
-            <div className="contact-icon">🐙</div>
-            <div>
-              <h3>GitHub</h3>
-              <a href="https://github.com" target="_blank" rel="noopener noreferrer">
-                github.com/abigailfumiisaiah
-              </a>
-            </div>
-          </div>
-          <div className="contact-info-item">
             <div className="contact-icon">📘</div>
             <div>
               <h3>Facebook</h3>
