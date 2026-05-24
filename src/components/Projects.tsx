@@ -19,6 +19,14 @@ const projects: Project[] = [
     github: 'https://github.com/abigailfumiisaiah/wento-superstore',
     demo: 'https://lovely-manatee-787efe.netlify.app/',
   },
+  {
+    title: 'Tech Blog',
+    description: 'A modern blogging platform for technology insights and tutorials. Built with responsive design and optimized for reading experience with articles on web development, software engineering, and tech trends.',
+    image: 'https://images.pexels.com/photos/3560044/pexels-photo-3560044.jpeg?auto=compress&cs=tinysrgb&w=800',
+    tags: ['React', 'Netlify', 'Blogging', 'Web Development'],
+    github: '#',
+    demo: 'https://afitechblog.netlify.app/',
+  },
 ];
 
 export const Projects: React.FC = () => {
