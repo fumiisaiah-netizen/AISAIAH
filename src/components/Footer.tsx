@@ -57,6 +57,7 @@ export const Footer: React.FC = () => {
 
       <div className="footer-bottom">
         <p>&copy; {currentYear} Abigail Fumi Isaiah. All rights reserved.</p>
+        <p className="footer-design-credit">Designed by AFI SOLUTIONS</p>
         <button className="scroll-top" onClick={scrollToTop} aria-label="Scroll to top">
           ↑
         </button>

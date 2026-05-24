@@ -93,6 +93,12 @@
   font-size: 0.95rem;
 }
 
+.footer-design-credit {
+  font-weight: 600;
+  color: var(--accent);
+  font-size: 0.9rem;
+}
+
 .scroll-top {
   width: 44px;
   height: 44px;
